@@ -1,0 +1,88 @@
+{
+    "Bahan" : [
+        {
+          "id": 1,
+          "nama": "Tepung Terigu",
+          "deskripsi": "ini adalah resep dorayaki 1",
+          "stokBahan": 20,
+          "harga": 3000
+        },
+        {
+          "id": 2,
+          "nama": "Telur",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 3,
+          "nama": "Cokelat",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 4,
+          "nama": "Keju",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 5,
+          "nama": "Kacang ijo",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 6,
+          "nama": "Kacang merah",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 7,
+          "nama": "Kacang hitam",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 8,
+          "nama": "Matcha",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 9,
+          "nama": "Vanilla",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 10,
+          "nama": "Strawberry",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 11,
+          "nama": "Melon",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        },
+        {
+          "id": 12,
+          "nama": "Durian",
+          "deskripsi": "ini adalah resep dorayaki 2",
+          "stokBahan": 20,
+          "harga": 25000
+        }
+      ]
+}
